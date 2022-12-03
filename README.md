@@ -1,6 +1,6 @@
 # git_homework
 01 Nom: Paul ETIENNE
-01 github: 
+01 github: PaulETIENNE-GOURVES
 02 Nom: Guesnier
 02 github: 
 03 Nom: Pavy
